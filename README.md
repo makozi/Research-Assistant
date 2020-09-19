@@ -22,7 +22,7 @@ This is the [link]() to the answer.
 
 - Write a function that takes in a Proth Number and uses Proth's theorem to determine if said number is prime? You can write this in any programming language but C/C++/Golang are preferred
 
-Code in [Python]() and [C++]()
+Code in [Python](https://github.com/makozi/Research-Assistant/blob/master/proth.py) 
 
 
 ### Maths
@@ -30,7 +30,9 @@ Code in [Python]() and [C++]()
 
 - Over all real numbers, find the minimum value of a positive real number, y such that
 
-y = sqrt((x+6)^2 + 25) + sqrt((x-6)^2 + 121)
+
+![math](https://user-images.githubusercontent.com/18138100/93685568-1f039680-faa8-11ea-9abf-c4bb974e7fe8.PNG)
+
 
 **Answer**
 
