@@ -32,6 +32,9 @@ With these reasons, I believe Bitcoin stock-to-flow model is a bad model.
 stock is 7%/year, and the standard deviation of the stock return is 40%/year. What is the Black-Scholes call price?
 
 **Answer**
+
+
+
 ![Page 1](https://user-images.githubusercontent.com/18138100/93718813-5a6c9680-fb76-11ea-9a45-1b9349655ede.jpg)
 
 
