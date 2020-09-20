@@ -64,6 +64,4 @@ Code in [Python](https://github.com/makozi/Research-Assistant/blob/master/proth.
 ![math](https://user-images.githubusercontent.com/18138100/93685568-1f039680-faa8-11ea-9abf-c4bb974e7fe8.PNG)
 
 
-**Answer**
 
-This is the [link]() to the answer.
